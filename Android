@@ -1,0 +1,5 @@
+openclaw devices list
+openclaw devices approve <requestId>
+openclaw devices reject <requestId>
+openclaw nodes status
+openclaw nodes describe --node <idOrNameOrIp>
